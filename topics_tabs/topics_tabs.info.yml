@@ -1,0 +1,5 @@
+name: Topics Tabs
+type: module
+description: 'Provides a configurable Top Topics and Most Read tabbed block.'
+package: Custom
+core_version_requirement: ^10 || ^11

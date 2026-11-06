@@ -1,0 +1,10 @@
+topics_tabs:
+  version: 1.x
+  css:
+    theme:
+      css/topics-tabs.css: {}
+  js:
+    js/topics-tabs.js: {}
+  dependencies:
+    - core/drupal
+    - core/once
