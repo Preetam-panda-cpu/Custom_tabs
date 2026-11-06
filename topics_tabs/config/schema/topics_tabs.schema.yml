@@ -1,0 +1,10 @@
+block.settings.topics_tabs_block:
+  type: block_settings
+  label: 'Topics tabs block'
+  mapping:
+    top_topics:
+      type: string
+      label: 'Top Topics'
+    most_read:
+      type: string
+      label: 'Most Read'
